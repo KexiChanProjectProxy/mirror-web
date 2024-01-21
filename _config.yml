@@ -15,7 +15,7 @@ operator: 兰州大学开源社区
 author: Lanzhou University Open Source Society
 desc: 致力于为国内和校内用户提供高质量的开源软件镜像、Linux 镜像源服务，帮助用户更方便地获取开源软件。本镜像站由兰州大学开源社区负责运行维护。
 # operator: 北外信息技术中心
-logo: true
+logo: false
 meow_404: true
 issue_tag: tuna
 baseurl: "" # the subpath of your site, e.g. /blog
