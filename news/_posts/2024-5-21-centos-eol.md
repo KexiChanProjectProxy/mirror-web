@@ -1,8 +1,8 @@
 ---
 layout: news
 title: CentOS 仓库即将停止服务
-date: 2024-5-20
-author: TanYuan
+date: 2024-5-21
+author: Yuan Tan
 category: news
 ---
 
